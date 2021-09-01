@@ -3,6 +3,8 @@
 
 using namespace std;
 
+//ответ: 126
+
 int recurs(int x, int y) {
 
 	if (x <= 2 && y >= 3) 
